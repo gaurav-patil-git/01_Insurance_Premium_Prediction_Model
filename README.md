@@ -5,7 +5,7 @@
 ## 🔗 Project Demonstration
 ### Demo GIF
 
-![Project Video](https://github.com/user-attachments/assets/53059a2b-f5d3-4be2-842d-815100dca2bc)
+![Premium](https://github.com/user-attachments/assets/71366618-a702-4c6c-a131-a8ecdee3b521)
 
 ## 🪪 Credits
 
