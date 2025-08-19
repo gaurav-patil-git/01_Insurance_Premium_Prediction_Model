@@ -4,9 +4,9 @@ import streamlit as st
 import joblib
 
 # Loading Model & Scaler Obj.
-model_young = joblib.load('D:/[01] SKILLS/[00] Projects/01 Healthcare Premium Prediction/models/model_young.joblib')
-model_other = joblib.load('D:/[01] SKILLS/[00] Projects/01 Healthcare Premium Prediction/models/model_other.joblib')
-scaler_obj = joblib.load('D:/[01] SKILLS/[00] Projects/01 Healthcare Premium Prediction/models/scaler_obj_gr.joblib')
+model_young = joblib.load('01 Healthcare Premium Prediction/models/model_young.joblib')
+model_other = joblib.load('01 Healthcare Premium Prediction/models/model_other.joblib')
+scaler_obj = joblib.load('01 Healthcare Premium Prediction/models/scaler_obj_gr.joblib')
 
 # Accessing scaler & list of columns
 scaler = scaler_obj['scaler']
@@ -206,3 +206,4 @@ def predictor(input_data):
 if st.button('Predict'):
     prediction = predictor(input_data)
     st.success(f'Predicted Health Insurance Cost: {prediction:,.2f}')
+
