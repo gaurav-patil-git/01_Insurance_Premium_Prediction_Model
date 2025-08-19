@@ -12,6 +12,7 @@
 - <a href="#model-development">Model Development</a>
 - <a href="#error-analysis">Error Analysis</a>
 - <a href="#streamlit-app">Streamlit App</a>
+- <a href="#credits">Credits</a>
 - <a href="#author-contact">Author & Contact</a>
 
 <h2><a class="anchor" id="overview"></a>📝 Overview</h2>
@@ -26,15 +27,6 @@ This project aims to develop a machine learning solution using historic data of 
 <h2><a class="anchor" id="model-preview"></a>🔗 Model Preview</h2>
 
 ![Model Preview](https://github.com/gaurav-patil-git/01_Insurance_Premium_Prediction_Model/blob/main/visuals/Premium.gif)
-
-<h2><a class="anchor" id="credits"></a>🪪 Credits</h2>
-
-This capstone project is a part of the “_Master Machine Learning for Data Science & AI: Beginner to Advanced_” course offered by **Codebasics** - All rights reserved.
-
-- **Course Instructor**: Mr. Dhaval Patel
-- **Platform**: codebasics.io – All rights reserved.
-
-All education content and dataset used as learning resources belong to Codebasics and are protected under their respective rights and terms of use.
 
 <h2><a class="anchor" id="dataset"></a>📊 Dataset</h2>
 
@@ -167,6 +159,15 @@ Performance table of different models with test rank:
 - Exported both respective models using `joblib`
 - Developed and deployed a most viable product (MVP) using `streamlit`
 - This MVP will be utilized by underwriters for 3 to 6 months for feedback and improvement before production
+
+<h2><a class="anchor" id="credits"></a>🪪 Credits</h2>
+
+This capstone project is a part of the “_Master Machine Learning for Data Science & AI: Beginner to Advanced_” course offered by **Codebasics** - All rights reserved.
+
+- **Course Instructor**: Mr. Dhaval Patel
+- **Platform**: codebasics.io – All rights reserved.
+
+All education content and dataset used as learning resources belong to Codebasics and are protected under their respective rights and terms of use.
 
 <h2><a class="anchor" id="author-contact"></a>📝 Author & Contact</h2>
 
